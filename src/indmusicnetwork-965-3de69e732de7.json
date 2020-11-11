@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "indmusicnetwork-965",
+  "private_key_id": "3de69e732de70bcf2bcfd44a98f3292d689de456",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDiKdzvVFT1OBAl\nAvecRknGsn22DRzauJvmKUjt6VA5OprgKr55qI8UOhFSDJ2zrqn5EHhsDK9xpyjZ\neiIwY672ABoqFPhxkqh3jN4fSLvvZnNiWxz6mIpNuDa4+ieQPDPNUY5nHxdEGKfJ\noIeSaOcmStSU5wvLJIRkqdhJcnlxrwi+OLr/xFwktwtVrcHqdnTgjxcf+d3zzSWK\n1dYYlvSR3uAkOswigojEPlxLtB/okEI88Gk9I3y7kGSipTi6QqeYNtNeVsbm/PX1\nO8r1L4R6QyD2kJwSJoNtWabngW6geiKBXY38Gyk8sFLBWfa7gh5Dnad9dgcVnmUF\nZzqyBHD/AgMBAAECggEAPH/9Yap6FaUbMIN0MIJe/v/FgDtOwjXLQo09vKMCumRy\nhM/6ZzoPmFYWRxAn6aaqQn3E8QaNskYIt/Cjj7VC2vzZAvPcKCmW1nBBBTZkS9zo\nteFwxZqjuLm0LdSBW+S26NBN20kmZKmBzP6b9a8JUqWG65RJA90va2xB9xff4+hx\nee73fKQnfGg6JnF7jPxYCxvXjjh4UJ8wx4CI38oCqpnVRzHruXF9ojDwO6Nv2Ppw\n87ghCDLoe+qZOwsQgsV6kAC2oXy/jjnN72UPgPjh9BIGsSz5t0DhsWH1V5p0vAH2\n64zLMT3uHmNK4pP016WVAl71WXxdZmTgyU9XG9SiUQKBgQD8M40HxQ036hS2/O54\nNCHGLyhvHZkOt74mtgomWy1vj7TjvdiJiKrEAmMPSYLnmU/J/UFdUe29pZjWz9qH\nPuBzn+cTCPhvqhoRpiKXOEienmNkPoAFssdzCC9ZHADkUEwQu08MRFS5ARfpuSPX\nPlZpoY0BoG+atZxaZ+ZsGH34TwKBgQDlkeoNlFW6UVhHyyO8toeKrzZbWKuFhzlI\n/HNsvWgU9qZtq2JP/GXZA+i20MwsHi8WMwl5kAUAVrR9qBcirmlU00xJ4lN/eY21\nAIBvOEdAjeuClZf5XYttNBWyX+S8etosTGqfJ9Lygn+AiU4lGh4BobFx8D7xcv6D\nK0KjlDEgUQKBgCouMQs4oNJWOyqzuOqvxWpRHtEewSeeAZaV4bKykzHSdi2U5e9y\nxSTNRWYcJGG52Ydt7Q2/kySh2qMq1mDCWmXcO5iKaoq6h2umPqjOCA9HbFYqwdyy\nHvuVRd4AegG1kFNIEJt7njPnA+naRi1MxsUZ+OxpueDFOSZBtF8l5YOvAoGAZaW3\n9o9Jbhf6eL9vcW14kmWGMegO+i6npLNzACDVZwLXKhQKkdP13KModVn6LUaoHrI2\nbcbhEAdUH5c/tzF2ngJ48vXtdrIBlrVEKPrIQcMVFlraUaWjyJSZTsO66eGTnK2x\nQAtIEezKO8WP/kmUI7DOet6fYBVEsBuFhBxnrCECgYBJLrHWQjy06AY0Zu7npHZp\nB7SpJ0fjGIrBE06kP48fFEaLoPRV8ukBEV+0RLwQTeZDU9H6WakQrhipBgvy3MA8\nY+g/UNEqWv7dMbN+EUuF2VIYIomo2lQGb6kdjw1DOXQiPQgrRjn+ofDbL3JyeEie\nQ2l5F36IJlGF6PZkxZNfBg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "324320886604-qqs9h6d34su31idotu1vhepvhg4svkke@developer.gserviceaccount.com",
+  "client_id": "324320886604-qqs9h6d34su31idotu1vhepvhg4svkke.apps.googleusercontent.com",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/324320886604-qqs9h6d34su31idotu1vhepvhg4svkke%40developer.gserviceaccount.com"
+}
